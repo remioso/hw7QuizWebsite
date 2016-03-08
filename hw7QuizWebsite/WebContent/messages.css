@@ -1,0 +1,38 @@
+div.title{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: bold;
+	font-size: 20px;
+	width:100%;
+	text-align:center;
+}
+
+#messagebar{
+	font-weight:bold;
+	width:100%;
+}
+
+div.messagetype {
+	text-align: center;
+	font-weight: bold;
+}
+
+td {
+	text-align: left;
+	font-weight: normal;
+	vertical-align: top;
+	padding: 0px;
+}
+
+a.userlink {
+	font-weight: bold;
+	display: inline-block;
+}
+
+li {
+	padding-bottom: 10px;
+}
+
+ul {
+	list-style-type: none;
+}

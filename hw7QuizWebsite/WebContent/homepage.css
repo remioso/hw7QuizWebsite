@@ -1,0 +1,61 @@
+body {
+	font-family: Trebuchet MS;
+}
+h1 {
+	margin: 0px;
+}
+#title {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	float:left;
+}
+
+#toolbar {
+	padding: 0px;
+	font-size: 25px;
+	color: white;
+	background-color: orange;
+	text-align: center;
+	width: 100%;
+}
+a {
+	color: white;
+	display: block;
+	text-decoration: none;
+}
+
+td:hover {
+	background-color:#ffc966;
+}
+
+div.block {
+	display: inline-block;
+}
+.messages {
+	color:black;
+	margin: 0px;
+	font-size: 15px;
+	float: right;
+}
+
+div.title{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#popular {
+	display: inline-block;
+	width: 33%;
+}
+
+#activity {
+	width: 33%;
+	padding-left: 20px;
+	float: left;
+}
+
+#quizzes{
+	max-width: 33%;
+	padding-right: 20px;
+	float: right;
+}
